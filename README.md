@@ -1,7 +1,7 @@
 <div>
 <img src="https://github.com/aldo3241/img/blob/main/Profile-elaina.png" width="300" align="right" />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="500" />
+<img src="https://github.com/aldo3241/img/blob/main/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
   
@@ -11,9 +11,9 @@
 
 
 - Understand Bahasa & English
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
+<img src="https://github.com/aldo3241/img/blob/main/Waifu-elainaa.png" width="300" align="right" />
 <br/>
-<img src="./img/Repo-elaina.png" width="500" />
+<img src="https://github.com/aldo3241/img/blob/main/Repo-elaina.png" width="500" />
 <br/>
 <br/>
   

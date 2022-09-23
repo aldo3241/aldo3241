@@ -1,5 +1,5 @@
 <div>
-<img src="./img/Profile-elaina.png" width="300" align="right" />
+<img src="https://github.com/aldo3241/img/blob/main/Profile-elaina.png" width="300" align="right" />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>

@@ -9,6 +9,9 @@
 
 - Live in **Malang, Indonesia**
 
+-
+
+-
 
 - Understand Bahasa & English
 <img src="https://github.com/aldo3241/img/blob/main/Waifu-elainaa.png" width="300" align="right" />
